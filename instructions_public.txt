@@ -19,6 +19,11 @@ Click "OK" again to close the Properties window.
 
 
 
+I've already done all this and created the shortcut but I have no idea if it'll work on other systems, you might just have to create a shortcut to the batch file yourself. For those unaware, a batch file is just a way for windows to execute a set of instruction, like creating a virtual environment to run a program, then start that program, etc. 
+In this case it just executes 
+python -main.py
+As there aren't any dependancies
+
 
 Notes:
 I've made the program as simple as possible, two or so lines, so that people won't be sketched out by needing admin permissions. SymLinks require these permissions, probably so thick programs don't hide massless software outside of your initial file location. 
