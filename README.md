@@ -1,6 +1,7 @@
 # SimpleSymlinker
 Automated Symlinking. No bells, no whistles, just function for this one; it's fantastic for saving massive amounts of space, but not needed more than a rare occasion when organizing AI models through out seperate UIs and such.
 
+<img width="756" alt="Screenshot 2024-03-07 175057" src="https://github.com/MackNcD/SimpleSymlinker/assets/42632395/a9814400-a390-479e-aaed-b4b1c3566011">
 
 Instructions:
 
