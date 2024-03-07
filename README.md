@@ -7,23 +7,4 @@ Click the .bat or shortcut depending on what works for your system, and then cli
 
 This does softlinks. If you need hardlinks the script is like 8 lines long you could probably just change the word 'soft' to 'hard' though I don't use hardlinks/not needed for models, but do as thy will.
 
-
-BTW if the shortcut for whatever reason doesn't work, this is how i made it (from ChatGPT)
-
-Right-click on your batch script (Start.bat) and choose "Create shortcut."
-
-Right-click on the created shortcut, and choose "Properties."
-
-In the "Shortcut" tab, look for the button labelled "Advanced...
-
-Check the option "Run as administrator" and click "OK."
-
-Click "OK" again to close the Properties window.
-
-
-
-Now the shortcut will start the .bat and you won't get a message that says "cannot create symlinks without admin permission" 
-For those unaware, a batch file is just a way for windows to execute a set of instruction, like creating a virtual environment to run a program, then start that program, etc. 
-In this case it just executes 
-python -main.py
-As there aren't any dependancies
+There aren't any dependancies, so no .venv for this one, it's the smallest program I think that exists on github.
