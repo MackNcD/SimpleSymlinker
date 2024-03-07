@@ -1,0 +1,5 @@
+run the .bat on windows 10 or mac, the shortcut for 11
+
+python admin.py
+
+Choose your files to be linked to. The window will close, press then a new one will pop up, now you're choosing where the files will be linked to
