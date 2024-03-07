@@ -5,10 +5,8 @@ Automated Symlinking. No bells, no whistles, just function for this one; it's fa
 
 Instructions:
 
-
-Since you're dealing with symbolic links and need elevated permissions, I've gone as far as the windows will let me to make creating symlinks as quickly as possible.
-
-You can create a shortcut to your batch script so you can run the batch as an admin without having to do everything manually. The point of automating processes like these is to get around unnecessary extra stuff, but this one single part *might* be required.
+Just click the shortcut to the batch script with admin functions unless you're in Windows 10, which doesn't require permission to create symlinks.
+You won't need to do this but it was a pain in the ass to figure it out so as a community service, if you need to do this for a batch file, it's actually pretty easy.
 
 Here are the steps:
 
